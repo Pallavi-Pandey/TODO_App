@@ -1,6 +1,6 @@
-# Django MongoDB Todo App
+# Django Todo App
 
-This is a simple CRUD (Create, Read, Update, Delete) Todo web application built using Django, MongoDB, and Bootstrap. It allows users to create, manage, and complete their daily tasks.
+This is a simple CRUD (Create, Read, Update, Delete) Todo web application built using Django, SQLite3, and Bootstrap. It allows users to create, manage, and complete their daily tasks.
 
 ## Features
 
@@ -14,7 +14,7 @@ This is a simple CRUD (Create, Read, Update, Delete) Todo web application built 
 Before you begin, ensure you have met the following requirements:
 
 - Python and Django are installed on your machine.
-- MongoDB is installed and running either locally or on a remote server.
+- SQLite is installed and running either locally or on a remote server.
 - Basic knowledge of Django and HTML is recommended.
 
 ## Installation
